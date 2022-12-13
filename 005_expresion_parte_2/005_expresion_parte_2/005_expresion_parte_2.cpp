@@ -24,5 +24,20 @@ int main()
 	std::cout.precision(2);
 	std::cout << "\n el resultado es: " << resultado << std::endl;
 
+	// 4 escribe la siguiente formula
+
+	std::cout << "escribe el numero a: ";
+	std::cin >> a;
+	std::cout << "escribe el numero b: ";
+	std::cin >> b;
+	std::cout << "escribe el numero c:";
+	std::cin >> c;
+	std::cout << "escribe el numero d:";
+	std::cin >> d;
+
+	resultado = a + b / (c - d);
+
+	std::cout << "el resultado es: " << resultado << std::endl;
+
 	return 0;
 }
