@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\003_calculadora_simple\003_calculadora\x64\Debug\003_calculadora.exe : fatal error LNK1120: 1 externos sin resolver
