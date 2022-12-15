@@ -1,0 +1,6 @@
+﻿  007_evaluacion_de_parcial.cpp
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\007_evaluacion_de_parcial\007_evaluacion_de_parcial\007_evaluacion_de_parcial.cpp(21,17): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\007_evaluacion_de_parcial\007_evaluacion_de_parcial\007_evaluacion_de_parcial.cpp(22,17): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\007_evaluacion_de_parcial\007_evaluacion_de_parcial\007_evaluacion_de_parcial.cpp(23,22): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\007_evaluacion_de_parcial\007_evaluacion_de_parcial\007_evaluacion_de_parcial.cpp(55,16): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  007_evaluacion_de_parcial.vcxproj -> C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\007_evaluacion_de_parcial\x64\Debug\007_evaluacion_de_parcial.exe
