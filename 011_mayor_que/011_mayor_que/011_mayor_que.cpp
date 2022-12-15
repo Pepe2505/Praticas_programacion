@@ -5,7 +5,8 @@ el mayor */
 
 int main()
 {
-	int n1, n2, n3, n4;
+	int n1, n2, n3;
+	int n4 = 0;
 
 	std::cout << "digite un numero: ";
 	std::cin >> n1;
@@ -20,9 +21,10 @@ int main()
 	}
 
 	std::cout << "\n digite 2 numeros: ";
-	std::cin >> n3, n4;
+	std::cin >> n3;
+	std::cin >> n4;
 
-	if(n3 < n4) {
+	if(n3 > n4) {
 		std::cout << "el mayor numero es: " << n3;
 	}
 	else {
