@@ -127,14 +127,16 @@ int main()
 	std::cout << "\n piensa en un mes del año y escribelo con su numero";
 	std::cin >> mes;
 
-	unidades = numero % 10; numero = numero / 10;
-	decenas = numero % 10; numero = numero / 10;
+	u_mes = numero % 10; numero = numero / 10; // unidad = 2; numero = 1;
+	d_mes = numero % 10; numero = numero / 10; // decena 1; numero = o;
 
 	switch (d_mes)
 	{
 	case 1: 
 		std::cout << "X";
 		break;
+	default:
+		std::cout << "solo recibe la decena 10";
 	}
 
 	switch (u_mes)

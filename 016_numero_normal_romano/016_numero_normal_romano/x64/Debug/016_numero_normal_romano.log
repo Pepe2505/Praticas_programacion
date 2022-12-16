@@ -1,7 +1,9 @@
 ﻿  016_numero_normal_romano.cpp
 C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\016_numero_normal_romano\016_numero_normal_romano\016_numero_normal_romano.cpp(10,3): error C2062: tipo 'int' inesperado
 C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\016_numero_normal_romano\016_numero_normal_romano\016_numero_normal_romano.cpp(128,14): error C2065: 'mes': identificador no declarado
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\016_numero_normal_romano\016_numero_normal_romano\016_numero_normal_romano.cpp(130,2): error C2065: 'u_mes': identificador no declarado
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\016_numero_normal_romano\016_numero_normal_romano\016_numero_normal_romano.cpp(131,2): error C2065: 'd_mes': identificador no declarado
 C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\016_numero_normal_romano\016_numero_normal_romano\016_numero_normal_romano.cpp(133,10): error C2065: 'd_mes': identificador no declarado
 C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\016_numero_normal_romano\016_numero_normal_romano\016_numero_normal_romano.cpp(134,2): error C2050: la expresión switch no es de tipo integral
-C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\016_numero_normal_romano\016_numero_normal_romano\016_numero_normal_romano.cpp(140,10): error C2065: 'u_mes': identificador no declarado
-C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\016_numero_normal_romano\016_numero_normal_romano\016_numero_normal_romano.cpp(141,2): error C2050: la expresión switch no es de tipo integral
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\016_numero_normal_romano\016_numero_normal_romano\016_numero_normal_romano.cpp(142,10): error C2065: 'u_mes': identificador no declarado
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\016_numero_normal_romano\016_numero_normal_romano\016_numero_normal_romano.cpp(143,2): error C2050: la expresión switch no es de tipo integral
