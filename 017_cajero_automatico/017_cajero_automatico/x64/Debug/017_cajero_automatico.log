@@ -1,0 +1,3 @@
+﻿  017_cajero_automatico.cpp
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\017_cajero_automatico\017_cajero_automatico\017_cajero_automatico.cpp(52,13): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  017_cajero_automatico.vcxproj -> C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\017_cajero_automatico\x64\Debug\017_cajero_automatico.exe
