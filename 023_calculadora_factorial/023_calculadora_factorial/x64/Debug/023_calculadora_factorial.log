@@ -1,0 +1,2 @@
+﻿  023_calculadora_factorial.cpp
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\023_calculadora_factorial\023_calculadora_factorial\023_calculadora_factorial.cpp(30): error C4700: se utilizó la variable local 'fac' sin inicializar
