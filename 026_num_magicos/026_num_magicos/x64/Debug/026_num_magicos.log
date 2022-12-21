@@ -1,0 +1,4 @@
+﻿  026_num_magicos.cpp
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\026_num_magicos\026_num_magicos\026_num_magicos.cpp(18,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\026_num_magicos\026_num_magicos\026_num_magicos.cpp(46): error C4700: se utilizó la variable local 'fac_1' sin inicializar
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\026_num_magicos\026_num_magicos\026_num_magicos.cpp(46): error C4700: se utilizó la variable local 'fac_2' sin inicializar
