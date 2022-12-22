@@ -1,0 +1,2 @@
+﻿  027-vectores_sumas.cpp
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\027-vectores_sumas\027-vectores_sumas\027-vectores_sumas.cpp(18,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
