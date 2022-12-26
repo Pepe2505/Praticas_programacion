@@ -1,0 +1,9 @@
+﻿  032_copiar_una_matriz.cpp
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\032_copiar_una_matriz\032_copiar_una_matriz\032_copiar_una_matriz.cpp(36,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\032_copiar_una_matriz\032_copiar_una_matriz\032_copiar_una_matriz.cpp(44,6): error C2086: 'int a': nueva definición
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\032_copiar_una_matriz\032_copiar_una_matriz\032_copiar_una_matriz.cpp(35): message : vea la declaración de 'a'
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\032_copiar_una_matriz\032_copiar_una_matriz\032_copiar_una_matriz.cpp(44,9): error C2086: 'int b': nueva definición
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\032_copiar_una_matriz\032_copiar_una_matriz\032_copiar_una_matriz.cpp(35): message : vea la declaración de 'b'
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\032_copiar_una_matriz\032_copiar_una_matriz\032_copiar_una_matriz.cpp(44,12): error C2086: 'int matriz_2[3][3]': nueva definición
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\032_copiar_una_matriz\032_copiar_una_matriz\032_copiar_una_matriz.cpp(35): message : vea la declaración de 'matriz_2'
+C:\Users\Alumno\Desktop\Progra_Pepe\Praticas_programacion\032_copiar_una_matriz\032_copiar_una_matriz\032_copiar_una_matriz.cpp(45,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
